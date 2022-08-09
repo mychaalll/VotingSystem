@@ -1,0 +1,36 @@
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database00.mdf
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database00_log.ldf
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCandidate.resources
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStudent.resources
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddUser.resources
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewStudents.resources
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VoteForm.resources
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VoteStandings.resources
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mychal Esurena\Documents\PUP\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database00.mdf
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database00_log.ldf
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCandidate.resources
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStudent.resources
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddUser.resources
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminForm.resources
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewStudents.resources
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VoteForm.resources
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VoteStandings.resources
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mychal Esurena\Documents\PUP\1st Year\OOP\Visual Studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
